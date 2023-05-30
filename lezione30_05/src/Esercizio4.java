@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /*Esercizio4 : Estrazione di dati da una stringa
         Scrivi un programma Java che chiede all'utente di inserire
         una stringa contenente informazioni strutturate, ad esempio
@@ -7,4 +9,5 @@
         e stampali separatamente.
 */
 public class Esercizio4 {
+
 }
