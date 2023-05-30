@@ -55,6 +55,13 @@ public class Main {
         System.out.println("Perimetro:" + trapezio1.calcolaPerimetro());
         System.out.println("Area:" + trapezio1.calcoloArea());
         System.out.println("");
+
+
+        System.out.println("TRAPEZIO");
+        System.out.println("Perimetro:" + trapezio1.calcolaPerimetro());
+        System.out.println("Area:" + trapezio1.calcoloArea());
+        System.out.println("");
+
     }
 
 }
